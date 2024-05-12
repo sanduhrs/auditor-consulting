@@ -1,0 +1,9 @@
+{
+  "name": "Auditor Consulting",
+  "short_name": "AuditorConsulting",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#D4356A",
+  "description": "Auditor Consulting - Open Source Software and IT Consulting - Software Architecture and Development",
+  "icons": []
+}
